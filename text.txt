@@ -1,0 +1,11 @@
+I am angry. 
+This message is aggressive! 
+The tone of this message should come off as rude.
+This is unacceptable. 
+I am not pleased with in regards to this situation. 
+It was unsatisfactory and offensive.
+
+This message on the other hand should be the exact opposite of the previous.
+The tone should range from positive to neutral. 
+I am quite pleased and happy as I type this.
+All of these sentences are datasets to test my program with and to verify its ability to identify tonality.
